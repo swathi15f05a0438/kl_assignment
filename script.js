@@ -7,28 +7,28 @@ function change_pic1()
 
 	if(i==1)
 	{
-		 pic.src='./images/s1.jpg';
+		 pic.src='https://cdn.pixabay.com/photo/2016/07/08/09/46/rose-1503881__340.jpg';
 		 i=2;
 	}
 	else if(i==2)
 		  {
-			pic.src='./images/m1.jpg';
+			pic.src='https://i.pinimg.com/originals/82/3b/5c/823b5c9d09b740e0f059cf8813677e55.png';
 			i=3;
 		
 		  }
 		  else if(i==3)
 				{
-				  pic.src='./images/nature.jpg';
+				  pic.src='';
 				  i=4;
 				}
 				else if(i==4)
 					  {
-					    pic.src='./images/r1.jpg';
+					    pic.src='https://www.wishgoodmorning.org/wp-content/uploads/2016/04/Keep-Smiling-Good-Morning-wg034167.jpg';
 					    i=5;
 					  }
 					  else
 						  {
-						   pic.src='./images/r2.jpg';
+						   pic.src='https://cdn.pixabay.com/photo/2017/10/26/23/58/rose-2892821_960_720.jpg';
 							i=1;
 						  
 						  }
