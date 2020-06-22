@@ -18,7 +18,7 @@ function change_pic1()
 		  }
 		  else if(i==3)
 				{
-				  pic.src='';
+				  pic.src='https://i.pinimg.com/originals/27/43/aa/2743aa8a904e136ba8a23eee633b5043.jpg';
 				  i=4;
 				}
 				else if(i==4)
