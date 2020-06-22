@@ -7,7 +7,7 @@ function change_pic1()
 
 	if(i==1)
 	{
-		 pic.src='https://cdn.pixabay.com/photo/2016/07/08/09/46/rose-1503881__340.jpg';
+		 pic.src='m1.jpg';
 		 i=2;
 	}
 	else if(i==2)
